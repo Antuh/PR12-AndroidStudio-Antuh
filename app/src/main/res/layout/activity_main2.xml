@@ -7,19 +7,12 @@
     tools:context=".MainActivity2">
 
     <ImageView
-        android:id="@+id/imageView6"
-        android:layout_width="587dp"
-        android:layout_height="997dp"
-        app:srcCompat="@drawable/i"
-        tools:layout_editor_absoluteX="-68dp"
-        tools:layout_editor_absoluteY="-116dp" />
-
-    <ImageView
         android:id="@+id/imageView10"
         android:layout_width="451dp"
         android:layout_height="800dp"
+        android:background="@drawable/i2"
         app:srcCompat="@drawable/_5"
-        tools:layout_editor_absoluteX="-7dp"
+        tools:layout_editor_absoluteX="-6dp"
         tools:layout_editor_absoluteY="-7dp" />
 
     <EditText
